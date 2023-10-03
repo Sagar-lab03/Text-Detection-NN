@@ -1,0 +1,19 @@
+----- Training -----
+
+1) first, we'll get the list of directories in our path (names of each folder)
+2) To read and store images
+3) Now, next we will convert it into numpy array
+4) Splitting the data
+5) finding IDs who have class = 0 (e.g.)
+6) Making bar plot
+7) Preprocessing
+8) Add depth --> It's imp for CNN
+9) Now we augment our images --> Means we'll add zoom, some rotation, will shift, add some translation
+   This will make dataset more generic
+10) One hot encoding
+11) to run the training
+12) Now, after the training process we want to know how was the loss of variation in the loss and accuracy
+13) Save the model
+
+
+---- Testing ----
